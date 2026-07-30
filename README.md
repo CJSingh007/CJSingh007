@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=220&section=header&text=Chiranjeev%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+# Chiranjeev Singh
+
+### DevOps & Cloud Engineer
 
 </div>
 
@@ -93,9 +95,9 @@ I build and manage cloud infrastructure, CI/CD pipelines, and automation framewo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CJSingh007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="170" />
+![Followers](https://img.shields.io/github/followers/CJSingh007?style=for-the-badge&color=38BDF8&labelColor=0d1117)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJSingh007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" height="170" />
+![Stars](https://img.shields.io/github/stars/CJSingh007?style=for-the-badge&color=38BDF8&labelColor=0d1117&affiliations=OWNER)
 
 </div>
 
@@ -109,6 +111,6 @@ I build and manage cloud infrastructure, CI/CD pipelines, and automation framewo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=100&section=footer" width="100%" />
+**Building Reliable Cloud Infrastructure Through Automation & DevOps Excellence**
 
 </div>
