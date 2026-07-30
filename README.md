@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm CJ</div>
+# <div align="center">Hi 👋, I'm Chiranjeev Singh</div>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=iam-pavanpachuru\&style=for-the-badge\&color=blue)
+![](https://komarev.com/ghpvc/?username=cjsingh007\&style=for-the-badge\&color=blue)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-🚀 Azure DevOps Engineer with **4.8+ years of experience** building scalable cloud infrastructure, enterprise CI/CD pipelines, and automation frameworks across Azure and multi-cloud environments.
+🚀 Azure DevOps Engineer with **5.3+ + years of experience** building scalable cloud infrastructure, enterprise CI/CD pipelines, and automation frameworks across Azure and multi-cloud environments.
 
 💡 Passionate about:
 
@@ -24,7 +24,7 @@
 * Infrastructure as Code (Terraform)
 * Kubernetes & Containerization
 * DevSecOps & Security Automation
-* GitHub Actions & Azure DevOps
+* Jenkins & GitHub Actions
 * Platform Engineering & Reliability
 
 🔥 I enjoy reducing manual effort through intelligent automation and building reusable DevOps solutions that improve scalability, governance, and developer productivity.
@@ -54,9 +54,9 @@
 
 ## 🚀 DevOps & CI/CD
 
-![Azure DevOps](<img src="./assets/azure-devops.png" width="50"/>)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Azure DevOps](<img src="./assets/azure-devops.png" width="50"/>)
 
 ---
 
@@ -71,8 +71,8 @@
 ## 🏗️ Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ---
 
@@ -137,12 +137,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Kalyan_Pachuru-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pavan-kalyan-pachuru-538a4016b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiranjeev_Singh-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chiranjeev-singh-57273b1a3/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-iam--pavanpachuru-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iam-pavanpachuru)
+[![GitHub](https://img.shields.io/badge/GitHub-cjsingh007-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CJSingh007)
 
-<a href="mailto:pavanpachuru1@gmail.com">
-<img src="https://img.shields.io/badge/Email-pavanpachuru1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:chiranjeevsingh339@gmail.com">
+<img src="https://img.shields.io/badge/Email-chiranjeevsingh339@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
