@@ -101,7 +101,7 @@ I build and manage cloud infrastructure, CI/CD pipelines, and automation framewo
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CJSingh007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="600" />
+<img src="https://streak-stats.demolab.com?user=CJSingh007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="600" />
 
 </div>
 
